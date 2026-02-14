@@ -1,0 +1,18 @@
+{
+  "tokens": {
+    "stable": {
+      "name": "Stablecoin",
+      "symbol": "STB",
+      "decimals": 18
+    },
+    "share": {
+      "name": "ShareToken",
+      "symbol": "SHR",
+      "decimals": 18
+    }
+  },
+  "treasury": {
+    "expansionThreshold": "0.05",
+    "oracleUpdateFrequency": "24h"
+  }
+}
